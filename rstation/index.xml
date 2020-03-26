@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coffee的R小站 | Coffee&#39;s Place</title>
+    <link>/rstation/</link>
+      <atom:link href="/rstation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Coffee的R小站</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>2020</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Coffee的R小站</title>
+      <link>/rstation/</link>
+    </image>
+    
+  </channel>
+</rss>
