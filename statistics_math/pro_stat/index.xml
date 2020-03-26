@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>前言 | Coffee&#39;s Place</title>
+    <link>/statistics_math/pro_stat/</link>
+      <atom:link href="/statistics_math/pro_stat/index.xml" rel="self" type="application/rss+xml" />
+    <description>前言</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>2020</copyright><lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>前言</title>
+      <link>/statistics_math/pro_stat/</link>
+    </image>
+    
+    <item>
+      <title>1.一元积分（一）</title>
+      <link>/statistics_math/pro_stat/01index/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/statistics_math/pro_stat/01index/</guid>
+      <description>&lt;p&gt;见
+&lt;a href=&#34;https://zhuanlan.zhihu.com/p/89488032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;链接&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

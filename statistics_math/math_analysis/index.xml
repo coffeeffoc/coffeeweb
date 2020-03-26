@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>前言 | Coffee&#39;s Place</title>
+    <link>/statistics_math/math_analysis/</link>
+      <atom:link href="/statistics_math/math_analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>前言</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>2020</copyright><lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>前言</title>
+      <link>/statistics_math/math_analysis/</link>
+    </image>
+    
+    <item>
+      <title>1.一元积分（一）</title>
+      <link>/statistics_math/math_analysis/01/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/statistics_math/math_analysis/01/</guid>
+      <description>&lt;p&gt;见
+&lt;a href=&#34;https://zhuanlan.zhihu.com/p/89488032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;链接&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2.一元积分（二）</title>
+      <link>/statistics_math/math_analysis/02/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/statistics_math/math_analysis/02/</guid>
+      <description>&lt;p&gt;见
+&lt;a href=&#34;https://zhuanlan.zhihu.com/p/89708429&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;链接&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.一元微分（一）</title>
+      <link>/statistics_math/math_analysis/03/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/statistics_math/math_analysis/03/</guid>
+      <description>&lt;p&gt;见
+&lt;a href=&#34;https://zhuanlan.zhihu.com/c_1173258938463555584&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;链接&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4.函数的傅里叶级数展开</title>
+      <link>/statistics_math/math_analysis/04/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/statistics_math/math_analysis/04/</guid>
+      <description>&lt;p&gt;见
+&lt;a href=&#34;https://zhuanlan.zhihu.com/p/89795830&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;链接&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5.Green、Gauss、Stokes公式</title>
+      <link>/statistics_math/math_analysis/05/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/statistics_math/math_analysis/05/</guid>
+      <description>&lt;p&gt;见
+&lt;a href=&#34;https://zhuanlan.zhihu.com/p/91467628&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;链接&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

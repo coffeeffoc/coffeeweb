@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>统计学/数学 | Coffee&#39;s Place</title>
+    <link>/statistics_math/</link>
+      <atom:link href="/statistics_math/index.xml" rel="self" type="application/rss+xml" />
+    <description>统计学/数学</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>2020</copyright><lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>统计学/数学</title>
+      <link>/statistics_math/</link>
+    </image>
+    
+  </channel>
+</rss>
